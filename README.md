@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 <p align="center" >
     <a href="https://www.codewars.com/users/tekami" target="_blank" rel="noreferrer">

@@ -2,7 +2,7 @@
 
 <p align="center" >
     <a href="[LINK TO: WHEN CLICKED](https://www.codewars.com/users/tekami)" target="_blank">
-      <img src="[https://github.r2v.ch/codewars?user=USERNAME](https://github.r2v.ch/codewars?user=tekami&name=true&top_languages=true&hide_clan=true&animation=false)" />
+      <img src="https://github.r2v.ch/codewars?user=tekami&name=true&top_languages=true&hide_clan=true&animation=false" />
     </a>
 </p>
 <!--

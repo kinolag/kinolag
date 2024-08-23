@@ -6,8 +6,8 @@
 </p>
 
 - 🔭 I am a Developer living in London
-- ⚡ I have extensive experience with JS, TS, React and more
-- 🌱 Currently working with the Remix framework while learning Next.js, and Python
+- ⚡ I have extensive experience with JS, TS, React in complex Web Applications
+- 🌱 Currently working with the Remix framework while also learning Next.js, and Python
 - 🌱 Interested in Data Visualisation, built some projects with D3 and SVG
 - ⚡ Experienced with Video, Video Players, and Studio workflows
 

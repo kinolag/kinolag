@@ -7,7 +7,7 @@
 
 - 🔭 I am a Developer living in London
 - ⚡ I have extensive experience with JS, TS, React and more
-- 🌱 I am currently working with the Remix framework and learning Next.js, and Python
+- 🌱 Currently working with the Remix framework while learning Next.js, and Python
 - 🌱 Interested in Data Visualisation, built some projects with D3 and SVG
 - ⚡ Experienced with Video, Video Players, and Studio workflows too
 

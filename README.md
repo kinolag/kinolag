@@ -1,4 +1,4 @@
-## Welcome 👋 Benvenuti
+## Welcome 👋
 <p align="center">
     <a href="https://www.codewars.com/users/tekami" target="_blank" rel="noreferrer">
         <img src="https://github.r2v.ch/codewars?user=tekami&name=true&top_languages=true&hide_clan=true&animation=true" alt="codewars profile"/>

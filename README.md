@@ -7,9 +7,9 @@
 
 - 🔭 I am a Developer living in London
 - ⚡ I have extensive experience with JS, TS, React in complex Web Applications
-- 🌱 Currently working with the Remix framework while also learning Next.js, and Python
 - 🌱 Interested in Data Visualisation, built some projects with D3 and SVG
 - ⚡ Experienced with Video, Video Players, and Studio workflows
+- 🌱 Currently working with the Remix framework while also learning Next.js, and Python
 
 <!--
 **kinolag/kinolag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

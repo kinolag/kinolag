@@ -9,7 +9,7 @@
 - ⚡ I have extensive experience with JS, TS, React in complex Web Applications
 - 🌱 Interested in Data Visualisation, built some projects with D3 and SVG
 - 📹 Experienced with Video, Video Players, and Studio Workflows
-- 🌱 Currently working with the Remix framework while also learning Next.js
+- 🌱 Currently working with the full stack Remix framework, also learning Next.js
 - 💡 Learning Python with an interest in ML and GenAI Applications
 
 <!--

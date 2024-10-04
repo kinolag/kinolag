@@ -10,7 +10,7 @@
 - 🌱 Interested in Data Visualisation, built some projects with D3 and SVG
 - 📹 Experienced with Video, Video Players, and Studio workflows
 - 🌱 Currently working with the Remix framework while also learning Next.js
-- 💡 Learning Python with an interest in ML and Gen AI applications
+- 💡 Learning Python with an interest in ML and GenAI applications
 
 <!--
 **kinolag/kinolag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

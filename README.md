@@ -5,7 +5,7 @@
     </a>
 </p>
 
-- 🔭 I am a Developer living in London
+- 🆖 I am a Developer living in London
 - ⚡ I have extensive experience with JS, TS, React in complex Web Applications
 - 🌱 Interested in Data Visualisation, built some projects with D3 and SVG
 - 📹 Experienced with Video, Video Players, and Studio workflows

@@ -11,7 +11,6 @@
 - 📹 Experienced with Video, Video Players, and Studio Workflows
 - 🌱 Currently working with the full stack Remix framework, also learning Next.js
 - 💡 Learning Python with the foundations of ML and GenAI Applications
-
 - 🏀 A qualified Basketball Coach, I enjoy reading, music, cycling and walking🚶
 
 <!--

@@ -11,7 +11,7 @@
 - 📹 Experienced with Video and Studio Workflows, I built a Video Player React app 
 - 🌱 Currently working with the full stack Remix framework, also learning Next.js
 - 💡 Learning Python with the foundations of ML and GenAI Applications
-- 🏀 A qualified Basketball Coach, I enjoy reading, music, cycling and walking🚶
+- 📚 I enjoy reading, music, cycling and walking. Also a qualified Basketball Coach 🏀
 
 <!--
 **kinolag/kinolag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

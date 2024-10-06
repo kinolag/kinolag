@@ -10,8 +10,8 @@
 - 🌱 Interested in Data Visualisation, built some projects with D3 and SVG
 - 📹 Experienced with Video and Studio Workflows, I built a Video Player React app 
 - 🌱 Currently working with the full stack Remix framework, also learning Next.js
-- 💡 Learning Python with the foundations of ML and GenAI Applications
-- 📚 I enjoy reading, music, cycling and walking. Also a qualified Basketball Coach 🏀
+- 💡 Learning Python with an interest in ML and GenAI Applications
+- 📚 I enjoy reading, music and walking. Also a qualified basketball coach 🏀
 
 <!--
 **kinolag/kinolag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

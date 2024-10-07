@@ -8,7 +8,7 @@
 - 🆖 I am a Developer living in London
 - ⚡ I have extensive experience with JS, TS, React in complex Web Applications
 - 🌱 Interested in Data Visualisation, built some projects with D3 and SVG
-- 📹 Experienced with Video and Studio Workflows, I built a Video Player React app 
+- 📹 Experienced with Video, Studio Workflows, ans Video Player Apps
 - 🌱 Currently working with the full stack Remix framework, also learning Next.js
 - 💡 Learning Python with an interest in ML and GenAI Applications
 - 📚 I enjoy reading, music and walking. Also a qualified basketball coach 🏀

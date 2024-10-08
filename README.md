@@ -5,13 +5,14 @@
     </a>
 </p>
 
-- 🆖 I am a Developer living in London, and a continuous learner
+- ℹ️ I am a Developer living in London, and a continuous learner
 - ⚡ I have extensive experience with JS, TS, React in complex Web Applications
 - 🌱 Interested in Data Visualisation, built some projects with D3 and SVG
 - 📹 Experienced with Video, Studio Workflows and Video Player Apps
 - 🌱 Currently working with the full stack Remix framework, also learning Next.js
 - 💡 Learning Python with an interest in ML and GenAI Applications
-- 📚 I enjoy reading, music and walking. Also a qualified basketball coach 🏀
+- 📚 I enjoy reading, music, photography and walking
+- ➕ I managed a studio team in London. Also a qualified basketball coach 🏀
 
 <!--
 **kinolag/kinolag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

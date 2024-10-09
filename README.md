@@ -4,7 +4,7 @@
 - 🌱 Interested in Data Visualisation, built some projects with D3 and SVG
 - 🌱 Currently working with the full stack Remix framework, also learning Next.js
 - 💡 Competent in Python with ML foundations and an interest in GenAI Applications
-- 📹 Experienced with Web Video, Video Player Applications and Studio Workflows
+- 📹 Experienced with Video Player Apps, Web Video, Studio Workflows and Media Libraries
 - ➕ I managed a studio team in London. Also a qualified basketball coach 🏀
 - 📚 I enjoy reading, music, photography, languages and walking
 <!--

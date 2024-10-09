@@ -2,11 +2,11 @@
 - ℹ️ I am a Developer living in London, and a continuous learner
 - ⚡ I have extensive experience with JS, TS, React in complex Web Applications
 - 🌱 Interested in Data Visualisation, built some projects with D3 and SVG
-- 📹 Experienced with Video, Studio Workflows and Video Player Applications
 - 🌱 Currently working with the full stack Remix framework, also learning Next.js
 - 💡 Learning Python with ML foundations and an interest in GenAI Applications
-- 📚 I enjoy reading, music, photography, languages and walking
+- 📹 Experienced with Web Video, Video Player Applications and Studio Workflows
 - ➕ I managed a studio team in London. Also a qualified basketball coach 🏀
+- 📚 I enjoy reading, music, photography, languages and walking
 <!--
 <p>
     <a href="https://www.codewars.com/users/tekami" target="_blank" rel="noreferrer">

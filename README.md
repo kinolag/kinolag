@@ -7,7 +7,7 @@
 - 📹 Experienced with Video Player Apps, Web Video, Studio Workflows, Media Libraries
 - ➕ I managed a studio team in London. Also a qualified basketball coach 🏀
 - 📚 I enjoy reading, languages, music, photography and walking
-- 🎓 MA Communication Sciences and Multimedia, MMus Studio Composition
+- 🎓 MA Communication Sciences and Multimedia | Various dev and technology courses
 <!--
 <p>
     <a href="https://www.codewars.com/users/tekami" target="_blank" rel="noreferrer">

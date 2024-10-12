@@ -1,4 +1,4 @@
-## Welcome 👋
+## Welcome 👋 Something about me:
 - ℹ️ I am a Developer living in London, and a continuous learner
 - ⚡ I have extensive experience with JS, TS, React in complex Web Applications
 - 🌱 Interested in Data Visualisation, built some projects with D3 and SVG
@@ -7,6 +7,7 @@
 - 📹 Experienced with Video Player Apps, Web Video, Studio Workflows, Media Libraries
 - ➕ I managed a studio team in London. Also a qualified basketball coach 🏀
 - 📚 I enjoy reading, languages, music, photography and walking
+- 🎓 MA Communication Sciences and Multimedia, MMus Studio Composition
 <!--
 <p>
     <a href="https://www.codewars.com/users/tekami" target="_blank" rel="noreferrer">

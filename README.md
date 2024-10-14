@@ -3,7 +3,7 @@
 - ⚡ I have extensive experience with JS, TS, React in complex Web Applications
 - 🌱 Interested in Data Visualisation, built some projects with D3 and SVG
 - 🌱 In personal full stack projects I have used MERN, then Remix and Next.js
-- 💡 Competent in Python with ML foundations and an interest in GenAI Applications
+- 💡 Competent in Python with elements of ML and an interest in GenAI Applications
 - 📹 Experienced with Video Player Apps, Web Video, Studio Workflows, Media Libraries
 - 📚 I enjoy reading, languages, music, video, photography and walking
 - ➕ I managed a studio team in London. Also a qualified basketball coach 🏀

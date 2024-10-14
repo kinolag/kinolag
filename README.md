@@ -3,11 +3,11 @@
 - ⚡ I have extensive experience with JS, TS, React in complex Web Applications
 - 🌱 Interested in Data Visualisation, built some projects with D3 and SVG
 - 🌱 In personal full stack projects I have used MERN, then Remix and Next.js
-- 💡 Competent in Python with ML foundations and an interest in GenAI applications
+- 💡 Competent in Python with ML foundations and an interest in GenAI Applications
 - 📹 Experienced with Video Player Apps, Web Video, Studio Workflows, Media Libraries
 - 📚 I enjoy reading, languages, music, video, photography and walking
 - ➕ I managed a studio team in London. Also a qualified basketball coach 🏀
-- :pencil2: MA Communication Sciences and Multimedia + Various dev and technology courses
+- 🔍 MA Communication Sciences and Multimedia + Various dev and technology courses
 <!--
 <p>
     <a href="https://www.codewars.com/users/tekami" target="_blank" rel="noreferrer">

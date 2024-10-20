@@ -8,13 +8,12 @@
 - 📚 I enjoy reading, languages, music, video, photography and walking
 - ➕ I managed a studio team in London. Also a qualified basketball coach 🏀
 - 🔍 MA Communication Sciences and Multimedia + Multiple dev and technology courses
-<!--
 <p>
     <a href="https://www.codewars.com/users/tekami" target="_blank" rel="noreferrer">
-        <img src="https://github.r2v.ch/codewars?user=tekami&name=true&top_languages=true&hide_clan=true&animation=true" alt="codewars profile"/>
+        <img src="https://www.codewars.com/users/tekami/badges/micro" alt="codewars profile"/>
     </a>
 </p>
--->
+
 <!--
 **kinolag/kinolag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
